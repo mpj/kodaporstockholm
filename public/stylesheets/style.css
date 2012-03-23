@@ -1,0 +1,25 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  width: 100%;
+  text-align:center;
+}
+
+a {
+  color: #ff4200;
+}
+
+#join { font-size: 20px; display: block; margin-top: 20px; font-weight: bold;}
+
+#main {
+	display: inline-block;
+}
+
+h1 { 
+	font-family: 'Montserrat', sans-serif; 
+	font-size: 80px; 
+	text-transform: uppercase;
+	margin-bottom: 0;
+}
+
+h1 span.bigger { font-size: 101px;}
